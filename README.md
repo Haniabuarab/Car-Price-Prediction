@@ -1,68 +1,24 @@
-# Car Price Prediction
+<h1 align="center">Hi 👋, I'm haniabuarab</h1>
+<h3 align="center">A passionate Data Science developer from Jordan</h3>
 
-This project aims to predict the price of cars using machine learning techniques, specifically the XGBoost algorithm. The model is trained on a dataset containing various features of cars, such as the make, model, year, mileage, fuel type, and other relevant factors.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haniabuarab&label=Profile%20views&color=0e75b6&style=flat" alt="haniabuarab" /> </p>
 
-## Dataset
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haniabuarab" alt="haniabuarab" /></a> </p>
 
-The dataset used for this project consists of a collection of car listings, each with associated features and the corresponding price. The dataset is preprocessed to handle missing values, categorical variables, and feature scaling, ensuring the data is suitable for training the XGBoost model.
+- 🔭 I’m currently working on **pyhon**
 
-Dataset link: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv 
+- 👯 I’m looking to collaborate on **pyhton**
 
-## XGBoost Algorithm
+- 💬 Ask me about **Data Science**
 
-XGBoost is an optimized gradient-boosting algorithm that has gained popularity in machine learning competitions and has become a popular choice for predictive modeling tasks. It is known for its efficiency, accuracy, and flexibility. XGBoost combines multiple weak prediction models (decision trees) to create a strong ensemble model.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@haniabuarab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@haniabuarab" height="30" width="40" /></a>
+</p>
 
-## Dependencies
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-The following dependencies are required to run the project:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniabuarab&show_icons=true&locale=en&layout=compact" alt="haniabuarab" /></p>
 
-- Python 3.x
-- XGBoost
-- NumPy
-- Pandas
-- Scikit-learn
-- Streamlit
-
-To install the required dependencies, you can use the following command:
-
-```shell
-pip install xgboost numpy pandas scikit-learn streamlit
-```
-
-## Usage
-Clone the repository:
-```shell
-git clone https://github.com/your-username/car-price-prediction.git
-```
-
-Navigate to the project directory:
-```shell
-cd car-price-prediction
-```
-
-Install the dependencies:
-```shell
-pip install -r requirements.txt
-```
-
-Run the Streamlit app:
-```shell
-streamlit run app.py
-```
-Open your browser and go to http://localhost:8501 to access the car price prediction app.  
-## Deployment Link:
-https://car-price-prediction-model.streamlit.app/ 
-
-## App Workflow
-The Streamlit app provides a user-friendly interface to interact with the trained model. The user can input various car features and obtain a predicted price based on the trained XGBoost model. The steps involved in the app workflow are as follows:
-
-1. The user enters the relevant details of the car, such as the make, model, year, mileage, fuel type, etc., in the input fields provided.
-2. Upon clicking the "Predict" button, the app sends the entered information to the XGBoost model.
-3. The model processes the input features and returns a predicted price for the car.
-4. The predicted price is displayed on the app interface, giving the user an estimate of the car's market value.
-
-![car price prediction](https://github.com/shruti-2412/Car-Price-Prediction/assets/99483160/377e1950-c6f4-46dc-bd4d-82b5fbe024ea)
-
-
-## Disclaimer
-The car price predictions provided by this project are based on a machine-learning model and may not always accurately reflect the real market prices. The predictions should be used for reference purposes only, and actual car prices can vary due to various factors.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haniabuarab&show_icons=true&locale=en" alt="haniabuarab" /></p>
